@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
-  "downloadURL": "https://github.com/alexdatsyk/Notchboard-Releases/releases/download/v0.1.7/Notchboard-0.1.7.dmg",
-  "updateURL": "https://github.com/alexdatsyk/Notchboard-Releases/releases/download/v0.1.7/Notchboard-0.1.7.zip",
-  "sha256": "190c60e18a21d053b9650105d6431b84c8e9a073da555ed190257670f7c6bb28",
-  "releaseNotesURL": "https://github.com/alexdatsyk/Notchboard-Releases/releases/tag/v0.1.7"
+  "version": "0.1.8",
+  "downloadURL": "https://github.com/alexdatsyk/Notchboard-Releases/releases/download/v0.1.8/Notchboard-0.1.8.dmg",
+  "updateURL": "https://github.com/alexdatsyk/Notchboard-Releases/releases/download/v0.1.8/Notchboard-0.1.8.zip",
+  "sha256": "f56d9faecc21a0ec1f64e4c06486d7129c475ae47c5745bc2c37569870b50511",
+  "releaseNotesURL": "https://github.com/alexdatsyk/Notchboard-Releases/releases/tag/v0.1.8"
 }
